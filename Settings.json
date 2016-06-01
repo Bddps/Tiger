@@ -1,0 +1,27 @@
+{
+	"bootstrap": {
+		"ip": "127.0.0.1",
+		"port": "30000"
+	},
+
+	"database": {
+		"host": "",
+		"user": "",
+		"password":"",
+		"database": ""
+	},
+
+	"game":{		
+		"ssoLogin": true,
+		"petDailyRespect": 3,
+		"dailyRespect": 3
+	},
+
+	"promo":{
+
+		"title": "¡Bienvenido a HabboCrazy!",
+		"body": "Te damos la bienvenida al el mejor hotel creado, es capas de soportar una gran cantidad de usuarios debido a su creación con un lenguaje único llamado NodeJS. Disfruta y llama a tus amigos",
+		"button": "¡Muchas gracias!",
+		"image": "catalogue/guild_forums_teaser.gif"
+	}
+}
